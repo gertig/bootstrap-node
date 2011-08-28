@@ -2,10 +2,10 @@
   "author": "Andrew Gertig <andrew.gertig@gmail.com> (http://andrewgertig.com)",
   "name": "bootstrap",
   "description": "Bootstrap your node app with some great defaults",
-  "version": "0.0.1",
-  "homepage": "http://github.com/AndrewGertig/bootstrap",
+  "version": "0.0.2",
   "repository": {
-    "url": "git://github.com/AndrewGertig/bootstrap"
+    "type": "git",
+    "url": "git://github.com/AndrewGertig/bootstrap-node"
   },
   "engines": {
     "node": ">=0.4.8"
