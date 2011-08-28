@@ -1,0 +1,17 @@
+{
+  "author": "Andrew Gertig <andrew.gertig@gmail.com> (http://andrewgertig.com)",
+  "name": "bootstrap",
+  "description": "Bootstrap your node app with some great defaults",
+  "version": "0.0.1",
+  "homepage": "http://github.com/AndrewGertig/bootstrap",
+  "repository": {
+    "url": "git://github.com/AndrewGertig/bootstrap"
+  },
+  "engines": {
+    "node": ">=0.4.8"
+  },
+  "dependencies": {"commander": "x.x.x"},
+  "devDependencies": {},
+  "keywords": ["bootstrap", "generator", "express"],
+  "bin": { "bootstrap": "./bin/bootstrap" }
+}
