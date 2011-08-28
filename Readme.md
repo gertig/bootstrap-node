@@ -4,6 +4,7 @@ You can use Javascript or Coffescript by following the prompts.
 
 ## Usage
 
+    $ npm install -g bootstrap
     $ bootstrap yourappname
     $ cd yourappname
     $ npm install
