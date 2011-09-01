@@ -1,6 +1,6 @@
 bootstrap allows you to create a new node.js app with a few things already setup to get you started. It takes a lot of inspiration from the express app executable.
 
-You can use Javascript or Coffescript by following the prompts.
+You can use Javascript or Coffeescript by following the prompts.
 
 ## Usage
 
@@ -9,7 +9,7 @@ You can use Javascript or Coffescript by following the prompts.
     $ cd yourappname
     $ npm install
 
-If you are using Heroku and Foreman you can now do
+If you are using Heroku's Cedar stack and Foreman you can now do
 
     $ foreman start
 
