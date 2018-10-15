@@ -1,4 +1,6 @@
-bootstrap allows you to create a new node.js app with a few things already setup to get you started. It takes a lot of inspiration from the express app executable.
+**Fun fact: due to this project I owned the `bootstrap` npm package name before Twitter bootstrap came on the scene. I tried for a couple of years to give them the name and was finally able to do so!**
+
+`bootstrap` allowed you to create a new node.js app with a few things already setup to get you started. It takes a lot of inspiration from the express app executable.
 
 You can use Javascript or Coffeescript by following the prompts.
 
